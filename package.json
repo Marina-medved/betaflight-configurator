@@ -35,7 +35,7 @@
   "author": "The Betaflight open source project.",
   "license": "GPL-3.0",
   "dependencies": {
-    "i18next": "^10.3.0",
+    "i18next": "^19.8.5",
     "i18next-xhr-backend": "^1.5.1",
     "lru_map": "^0.3.3",
     "marked": "^0.3.12",
